@@ -1,0 +1,376 @@
+2026-03-04 21:18:50  [INFO]  Toolkit started on win32.
+2026-03-04 21:18:50  [WARNING]  requirements.txt not found at C:\Users\israe\Desktop\ToolKit\requirements.txt
+2026-03-04 21:47:01  [INFO]  Toolkit started on win32.
+2026-03-04 21:47:01  [WARNING]  requirements.txt not found at C:\Users\israe\Desktop\ToolKit\requirements.txt
+2026-03-04 21:47:01  [INFO]  Npcap detected on Windows.
+2026-03-04 21:47:04  [INFO]  Exiting - no modules found.
+2026-03-04 21:58:00  [INFO]  Toolkit started on win32.
+2026-03-04 21:58:11  [INFO]  Installed: paramiko==3.5.0
+2026-03-04 21:58:14  [INFO]  Installed: scapy==2.6.1
+2026-03-04 21:58:18  [INFO]  Installed: pywin32==311
+2026-03-04 21:58:20  [INFO]  Npcap detected on Windows.
+2026-03-04 21:58:20  [INFO]  Discovered module: tcp_client.py
+2026-03-04 21:58:27  [INFO]  Launching module: tcp_client.py
+2026-03-04 21:58:40  [INFO]  Discovered module: tcp_client.py
+2026-03-04 22:02:22  [INFO]  Discovered module: tcp_client.py
+2026-03-04 22:02:22  [INFO]  Discovered module: tcp_proxy.py
+2026-03-04 22:03:05  [INFO]  Launching module: tcp_proxy.py
+2026-03-04 22:03:05  [WARNING]  Module tcp_proxy.py finished with exit code 2.
+2026-03-04 22:03:12  [INFO]  Discovered module: tcp_client.py
+2026-03-04 22:03:12  [INFO]  Discovered module: tcp_server.py
+2026-03-04 22:03:14  [INFO]  Launching module: tcp_server.py
+2026-03-04 22:03:24  [INFO]  Discovered module: tcp_client.py
+2026-03-04 22:03:24  [INFO]  Discovered module: tcp_server.py
+2026-03-04 22:03:27  [INFO]  Discovered module: tcp_client.py
+2026-03-04 22:03:27  [INFO]  Discovered module: tcp_server.py
+2026-03-04 22:05:10  [INFO]  Discovered module: tcp_client.py
+2026-03-04 22:05:10  [INFO]  Discovered module: tcp_proxy.py
+2026-03-04 22:05:10  [INFO]  Discovered module: tcp_server.py
+2026-03-04 22:06:19  [INFO]  Discovered module: tcp_client.py
+2026-03-04 22:06:19  [INFO]  Discovered module: tcp_proxy.py
+2026-03-04 22:06:19  [INFO]  Discovered module: tcp_server.py
+2026-03-04 22:06:19  [INFO]  Discovered module: udp_client.py
+2026-03-04 22:07:46  [INFO]  Discovered module: ssh_executor.py
+2026-03-04 22:07:46  [INFO]  Discovered module: tcp_client.py
+2026-03-04 22:07:46  [INFO]  Discovered module: tcp_proxy.py
+2026-03-04 22:07:46  [INFO]  Discovered module: tcp_server.py
+2026-03-04 22:07:46  [INFO]  Discovered module: udp_client.py
+2026-03-04 22:09:01  [INFO]  Discovered module: ssh_command_handler.py
+2026-03-04 22:09:01  [INFO]  Discovered module: ssh_executor.py
+2026-03-04 22:09:01  [INFO]  Discovered module: tcp_client.py
+2026-03-04 22:09:01  [INFO]  Discovered module: tcp_proxy.py
+2026-03-04 22:09:01  [INFO]  Discovered module: tcp_server.py
+2026-03-04 22:09:01  [INFO]  Discovered module: udp_client.py
+2026-03-04 22:10:09  [INFO]  Launching module: udp_client.py
+2026-03-04 22:11:38  [INFO]  Discovered module: ssh_command_handler.py
+2026-03-04 22:11:38  [INFO]  Discovered module: ssh_executor.py
+2026-03-04 22:11:38  [INFO]  Discovered module: ssh_server.py
+2026-03-04 22:11:38  [INFO]  Discovered module: tcp_client.py
+2026-03-04 22:11:38  [INFO]  Discovered module: tcp_proxy.py
+2026-03-04 22:11:38  [INFO]  Discovered module: tcp_server.py
+2026-03-04 22:11:38  [INFO]  Discovered module: udp_client.py
+2026-03-04 22:12:55  [INFO]  Discovered module: reverse_ssh_tunnel.py
+2026-03-04 22:12:55  [INFO]  Discovered module: ssh_command_handler.py
+2026-03-04 22:12:55  [INFO]  Discovered module: ssh_executor.py
+2026-03-04 22:12:55  [INFO]  Discovered module: ssh_server.py
+2026-03-04 22:12:55  [INFO]  Discovered module: tcp_client.py
+2026-03-04 22:12:55  [INFO]  Discovered module: tcp_proxy.py
+2026-03-04 22:12:55  [INFO]  Discovered module: tcp_server.py
+2026-03-04 22:12:55  [INFO]  Discovered module: udp_client.py
+2026-03-04 22:14:39  [INFO]  Discovered module: packet_sniffer.py
+2026-03-04 22:14:39  [INFO]  Discovered module: reverse_ssh_tunnel.py
+2026-03-04 22:14:39  [INFO]  Discovered module: ssh_command_handler.py
+2026-03-04 22:14:39  [INFO]  Discovered module: ssh_executor.py
+2026-03-04 22:14:39  [INFO]  Discovered module: ssh_server.py
+2026-03-04 22:14:39  [INFO]  Discovered module: tcp_client.py
+2026-03-04 22:14:39  [INFO]  Discovered module: tcp_proxy.py
+2026-03-04 22:14:39  [INFO]  Discovered module: tcp_server.py
+2026-03-04 22:14:39  [INFO]  Discovered module: udp_client.py
+2026-03-04 22:16:38  [INFO]  Discovered module: packet_sniffer.py
+2026-03-04 22:16:38  [INFO]  Discovered module: port_scanner.py
+2026-03-04 22:16:38  [INFO]  Discovered module: reverse_ssh_tunnel.py
+2026-03-04 22:16:38  [INFO]  Discovered module: ssh_command_handler.py
+2026-03-04 22:16:38  [INFO]  Discovered module: ssh_executor.py
+2026-03-04 22:16:38  [INFO]  Discovered module: ssh_server.py
+2026-03-04 22:16:38  [INFO]  Discovered module: tcp_client.py
+2026-03-04 22:16:38  [INFO]  Discovered module: tcp_proxy.py
+2026-03-04 22:16:38  [INFO]  Discovered module: tcp_server.py
+2026-03-04 22:16:38  [INFO]  Discovered module: udp_client.py
+2026-03-04 22:18:29  [INFO]  Discovered module: arp_spoofer.py
+2026-03-04 22:18:29  [INFO]  Discovered module: packet_sniffer.py
+2026-03-04 22:18:29  [INFO]  Discovered module: port_scanner.py
+2026-03-04 22:18:29  [INFO]  Discovered module: reverse_ssh_tunnel.py
+2026-03-04 22:18:29  [INFO]  Discovered module: ssh_command_handler.py
+2026-03-04 22:18:29  [INFO]  Discovered module: ssh_executor.py
+2026-03-04 22:18:29  [INFO]  Discovered module: ssh_server.py
+2026-03-04 22:18:29  [INFO]  Discovered module: tcp_client.py
+2026-03-04 22:18:29  [INFO]  Discovered module: tcp_proxy.py
+2026-03-04 22:18:29  [INFO]  Discovered module: tcp_server.py
+2026-03-04 22:18:29  [INFO]  Discovered module: udp_client.py
+2026-03-04 22:27:32  [INFO]  Discovered module: arp_spoofer.py
+2026-03-04 22:27:32  [INFO]  Discovered module: http_brute_forcer.py
+2026-03-04 22:27:32  [INFO]  Discovered module: log_analyser.py
+2026-03-04 22:27:33  [INFO]  Discovered module: mac_flooder.py
+2026-03-04 22:27:33  [INFO]  Discovered module: packet_sniffer.py
+2026-03-04 22:27:33  [INFO]  Discovered module: password_cracking.py
+2026-03-04 22:27:33  [INFO]  Discovered module: port_scanner.py
+2026-03-04 22:27:33  [INFO]  Discovered module: reverse_ssh_tunnel.py
+2026-03-04 22:27:33  [INFO]  Discovered module: ssh_command_handler.py
+2026-03-04 22:27:33  [INFO]  Discovered module: ssh_executor.py
+2026-03-04 22:27:33  [INFO]  Discovered module: ssh_server.py
+2026-03-04 22:27:33  [INFO]  Discovered module: tcp_client.py
+2026-03-04 22:27:33  [INFO]  Discovered module: tcp_proxy.py
+2026-03-04 22:27:33  [INFO]  Discovered module: tcp_server.py
+2026-03-04 22:27:33  [INFO]  Discovered module: udp_client.py
+2026-03-04 22:35:46  [INFO]  Toolkit started on win32.
+2026-03-04 22:35:46  [WARNING]  requirements.txt not found at C:\Users\israe\AppData\Local\Temp\_MEI193562\requirements.txt
+2026-03-04 22:35:46  [INFO]  Npcap detected on Windows.
+2026-03-04 22:37:28  [INFO]  Toolkit started on win32.
+2026-03-04 22:37:28  [WARNING]  requirements.txt not found at C:\Users\israe\AppData\Local\Temp\_MEI253762\requirements.txt
+2026-03-04 22:37:28  [INFO]  Npcap detected on Windows.
+2026-03-04 22:37:37  [INFO]  Toolkit started on win32.
+2026-03-04 22:37:37  [WARNING]  requirements.txt not found at C:\Users\israe\AppData\Local\Temp\_MEI170962\requirements.txt
+2026-03-04 22:37:37  [INFO]  Npcap detected on Windows.
+2026-03-04 22:42:44  [INFO]  Toolkit started on win32.
+2026-03-04 22:42:48  [INFO]  Toolkit started on win32.
+2026-03-04 22:44:21  [INFO]  Toolkit started on win32.
+2026-03-04 22:44:41  [INFO]  Toolkit started on win32.
+2026-03-04 22:44:41  [WARNING]  requirements.txt not found at C:\Users\israe\AppData\Local\Temp\_MEI204922\requirements.txt
+2026-03-04 22:44:41  [INFO]  Npcap detected on Windows.
+2026-03-04 22:44:47  [INFO]  Toolkit started on win32.
+2026-03-04 22:44:47  [WARNING]  requirements.txt not found at C:\Users\israe\AppData\Local\Temp\_MEI180042\requirements.txt
+2026-03-04 22:44:47  [INFO]  Npcap detected on Windows.
+2026-03-04 22:45:02  [INFO]  Discovered module: arp_spoofer.py
+2026-03-04 22:45:02  [INFO]  Discovered module: http_brute_forcer.py
+2026-03-04 22:45:02  [INFO]  Discovered module: log_analyser.py
+2026-03-04 22:45:02  [INFO]  Discovered module: mac_flooder.py
+2026-03-04 22:45:02  [INFO]  Discovered module: packet_sniffer.py
+2026-03-04 22:45:02  [INFO]  Discovered module: password_cracking.py
+2026-03-04 22:45:02  [INFO]  Discovered module: port_scanner.py
+2026-03-04 22:45:02  [INFO]  Discovered module: reverse_ssh_tunnel.py
+2026-03-04 22:45:02  [INFO]  Discovered module: ssh_command_handler.py
+2026-03-04 22:45:02  [INFO]  Discovered module: ssh_executor.py
+2026-03-04 22:45:02  [INFO]  Discovered module: ssh_server.py
+2026-03-04 22:45:02  [INFO]  Discovered module: tcp_client.py
+2026-03-04 22:45:02  [INFO]  Discovered module: tcp_proxy.py
+2026-03-04 22:45:02  [INFO]  Discovered module: tcp_server.py
+2026-03-04 22:45:02  [INFO]  Discovered module: udp_client.py
+2026-03-04 22:45:16  [INFO]  Toolkit started on win32.
+2026-03-04 22:45:16  [WARNING]  requirements.txt not found at C:\Users\israe\AppData\Local\Temp\_MEI129682\requirements.txt
+2026-03-04 22:45:16  [INFO]  Npcap detected on Windows.
+2026-03-04 22:45:44  [INFO]  Toolkit started on win32.
+2026-03-04 22:45:44  [INFO]  All dependencies satisfied.
+2026-03-04 22:45:44  [INFO]  Npcap detected on Windows.
+2026-03-04 22:45:44  [INFO]  Discovered module: arp_spoofer.py
+2026-03-04 22:45:44  [INFO]  Discovered module: http_brute_forcer.py
+2026-03-04 22:45:44  [INFO]  Discovered module: log_analyser.py
+2026-03-04 22:45:44  [INFO]  Discovered module: mac_flooder.py
+2026-03-04 22:45:44  [INFO]  Discovered module: packet_sniffer.py
+2026-03-04 22:45:44  [INFO]  Discovered module: password_cracking.py
+2026-03-04 22:45:44  [INFO]  Discovered module: port_scanner.py
+2026-03-04 22:45:44  [INFO]  Discovered module: reverse_ssh_tunnel.py
+2026-03-04 22:45:44  [INFO]  Discovered module: ssh_command_handler.py
+2026-03-04 22:45:44  [INFO]  Discovered module: ssh_executor.py
+2026-03-04 22:45:44  [INFO]  Discovered module: ssh_server.py
+2026-03-04 22:45:44  [INFO]  Discovered module: tcp_client.py
+2026-03-04 22:45:44  [INFO]  Discovered module: tcp_proxy.py
+2026-03-04 22:45:44  [INFO]  Discovered module: tcp_server.py
+2026-03-04 22:45:44  [INFO]  Discovered module: udp_client.py
+2026-03-04 22:45:49  [INFO]  Launching module: log_analyser.py
+2026-03-04 22:46:41  [INFO]  Discovered module: arp_spoofer.py
+2026-03-04 22:46:41  [INFO]  Discovered module: http_brute_forcer.py
+2026-03-04 22:46:41  [INFO]  Discovered module: log_analyser.py
+2026-03-04 22:46:41  [INFO]  Discovered module: mac_flooder.py
+2026-03-04 22:46:41  [INFO]  Discovered module: packet_sniffer.py
+2026-03-04 22:46:41  [INFO]  Discovered module: password_cracking.py
+2026-03-04 22:46:41  [INFO]  Discovered module: port_scanner.py
+2026-03-04 22:46:41  [INFO]  Discovered module: reverse_ssh_tunnel.py
+2026-03-04 22:46:41  [INFO]  Discovered module: ssh_command_handler.py
+2026-03-04 22:46:41  [INFO]  Discovered module: ssh_executor.py
+2026-03-04 22:46:41  [INFO]  Discovered module: ssh_server.py
+2026-03-04 22:46:41  [INFO]  Discovered module: tcp_client.py
+2026-03-04 22:46:41  [INFO]  Discovered module: tcp_proxy.py
+2026-03-04 22:46:41  [INFO]  Discovered module: tcp_server.py
+2026-03-04 22:46:41  [INFO]  Discovered module: udp_client.py
+2026-03-04 22:46:57  [INFO]  Launching module: password_cracking.py
+2026-03-04 22:47:11  [INFO]  Discovered module: arp_spoofer.py
+2026-03-04 22:47:11  [INFO]  Discovered module: http_brute_forcer.py
+2026-03-04 22:47:11  [INFO]  Discovered module: log_analyser.py
+2026-03-04 22:47:11  [INFO]  Discovered module: mac_flooder.py
+2026-03-04 22:47:11  [INFO]  Discovered module: packet_sniffer.py
+2026-03-04 22:47:11  [INFO]  Discovered module: password_cracking.py
+2026-03-04 22:47:11  [INFO]  Discovered module: port_scanner.py
+2026-03-04 22:47:11  [INFO]  Discovered module: reverse_ssh_tunnel.py
+2026-03-04 22:47:11  [INFO]  Discovered module: ssh_command_handler.py
+2026-03-04 22:47:11  [INFO]  Discovered module: ssh_executor.py
+2026-03-04 22:47:11  [INFO]  Discovered module: ssh_server.py
+2026-03-04 22:47:11  [INFO]  Discovered module: tcp_client.py
+2026-03-04 22:47:11  [INFO]  Discovered module: tcp_proxy.py
+2026-03-04 22:47:11  [INFO]  Discovered module: tcp_server.py
+2026-03-04 22:47:11  [INFO]  Discovered module: udp_client.py
+2026-03-04 22:48:18  [INFO]  Launching module: arp_spoofer.py
+2026-03-04 22:49:41  [INFO]  Discovered module: arp_spoofer.py
+2026-03-04 22:49:41  [INFO]  Discovered module: http_brute_forcer.py
+2026-03-04 22:49:41  [INFO]  Discovered module: log_analyser.py
+2026-03-04 22:49:41  [INFO]  Discovered module: mac_flooder.py
+2026-03-04 22:49:41  [INFO]  Discovered module: packet_sniffer.py
+2026-03-04 22:49:41  [INFO]  Discovered module: password_cracking.py
+2026-03-04 22:49:41  [INFO]  Discovered module: port_scanner.py
+2026-03-04 22:49:41  [INFO]  Discovered module: reverse_ssh_tunnel.py
+2026-03-04 22:49:41  [INFO]  Discovered module: ssh_command_handler.py
+2026-03-04 22:49:41  [INFO]  Discovered module: ssh_executor.py
+2026-03-04 22:49:41  [INFO]  Discovered module: ssh_server.py
+2026-03-04 22:49:41  [INFO]  Discovered module: tcp_client.py
+2026-03-04 22:49:41  [INFO]  Discovered module: tcp_proxy.py
+2026-03-04 22:49:41  [INFO]  Discovered module: tcp_server.py
+2026-03-04 22:49:41  [INFO]  Discovered module: udp_client.py
+2026-03-04 22:49:44  [INFO]  Launching module: arp_spoofer.py
+2026-03-04 22:49:53  [INFO]  Discovered module: arp_spoofer.py
+2026-03-04 22:49:53  [INFO]  Discovered module: http_brute_forcer.py
+2026-03-04 22:49:53  [INFO]  Discovered module: log_analyser.py
+2026-03-04 22:49:53  [INFO]  Discovered module: mac_flooder.py
+2026-03-04 22:49:53  [INFO]  Discovered module: packet_sniffer.py
+2026-03-04 22:49:53  [INFO]  Discovered module: password_cracking.py
+2026-03-04 22:49:53  [INFO]  Discovered module: port_scanner.py
+2026-03-04 22:49:53  [INFO]  Discovered module: reverse_ssh_tunnel.py
+2026-03-04 22:49:53  [INFO]  Discovered module: ssh_command_handler.py
+2026-03-04 22:49:53  [INFO]  Discovered module: ssh_executor.py
+2026-03-04 22:49:53  [INFO]  Discovered module: ssh_server.py
+2026-03-04 22:49:53  [INFO]  Discovered module: tcp_client.py
+2026-03-04 22:49:53  [INFO]  Discovered module: tcp_proxy.py
+2026-03-04 22:49:53  [INFO]  Discovered module: tcp_server.py
+2026-03-04 22:49:53  [INFO]  Discovered module: udp_client.py
+2026-03-04 22:49:55  [INFO]  Discovered module: arp_spoofer.py
+2026-03-04 22:49:55  [INFO]  Discovered module: http_brute_forcer.py
+2026-03-04 22:49:55  [INFO]  Discovered module: log_analyser.py
+2026-03-04 22:49:55  [INFO]  Discovered module: mac_flooder.py
+2026-03-04 22:49:55  [INFO]  Discovered module: packet_sniffer.py
+2026-03-04 22:49:55  [INFO]  Discovered module: password_cracking.py
+2026-03-04 22:49:55  [INFO]  Discovered module: port_scanner.py
+2026-03-04 22:49:55  [INFO]  Discovered module: reverse_ssh_tunnel.py
+2026-03-04 22:49:55  [INFO]  Discovered module: ssh_command_handler.py
+2026-03-04 22:49:55  [INFO]  Discovered module: ssh_executor.py
+2026-03-04 22:49:55  [INFO]  Discovered module: ssh_server.py
+2026-03-04 22:49:55  [INFO]  Discovered module: tcp_client.py
+2026-03-04 22:49:55  [INFO]  Discovered module: tcp_proxy.py
+2026-03-04 22:49:55  [INFO]  Discovered module: tcp_server.py
+2026-03-04 22:49:55  [INFO]  Discovered module: udp_client.py
+2026-03-04 22:51:43  [INFO]  Toolkit started on win32.
+2026-03-04 22:51:43  [INFO]  All dependencies satisfied.
+2026-03-04 22:51:43  [INFO]  Npcap detected on Windows.
+2026-03-04 22:51:44  [INFO]  Discovered module: arp_spoofer.py
+2026-03-04 22:51:44  [INFO]  Discovered module: http_brute_forcer.py
+2026-03-04 22:51:44  [INFO]  Discovered module: log_analyser.py
+2026-03-04 22:51:44  [INFO]  Discovered module: mac_flooder.py
+2026-03-04 22:51:44  [INFO]  Discovered module: packet_sniffer.py
+2026-03-04 22:51:44  [INFO]  Discovered module: password_cracking.py
+2026-03-04 22:51:44  [INFO]  Discovered module: port_scanner.py
+2026-03-04 22:51:44  [INFO]  Discovered module: reverse_ssh_tunnel.py
+2026-03-04 22:51:44  [INFO]  Discovered module: ssh_command_handler.py
+2026-03-04 22:51:44  [INFO]  Discovered module: ssh_executor.py
+2026-03-04 22:51:44  [INFO]  Discovered module: ssh_server.py
+2026-03-04 22:51:44  [INFO]  Discovered module: tcp_client.py
+2026-03-04 22:51:44  [INFO]  Discovered module: tcp_proxy.py
+2026-03-04 22:51:44  [INFO]  Discovered module: tcp_server.py
+2026-03-04 22:51:44  [INFO]  Discovered module: udp_client.py
+2026-03-04 22:51:54  [INFO]  Discovered module: arp_spoofer.py
+2026-03-04 22:51:54  [INFO]  Discovered module: http_brute_forcer.py
+2026-03-04 22:51:54  [INFO]  Discovered module: log_analyser.py
+2026-03-04 22:51:54  [INFO]  Discovered module: mac_flooder.py
+2026-03-04 22:51:54  [INFO]  Discovered module: packet_sniffer.py
+2026-03-04 22:51:54  [INFO]  Discovered module: password_cracking.py
+2026-03-04 22:51:54  [INFO]  Discovered module: port_scanner.py
+2026-03-04 22:51:54  [INFO]  Discovered module: reverse_ssh_tunnel.py
+2026-03-04 22:51:54  [INFO]  Discovered module: ssh_command_handler.py
+2026-03-04 22:51:54  [INFO]  Discovered module: ssh_executor.py
+2026-03-04 22:51:54  [INFO]  Discovered module: ssh_server.py
+2026-03-04 22:51:54  [INFO]  Discovered module: tcp_client.py
+2026-03-04 22:51:54  [INFO]  Discovered module: tcp_proxy.py
+2026-03-04 22:51:54  [INFO]  Discovered module: tcp_server.py
+2026-03-04 22:51:54  [INFO]  Discovered module: udp_client.py
+2026-03-04 22:52:29  [INFO]  Toolkit started on win32.
+2026-03-04 22:52:29  [INFO]  All dependencies satisfied.
+2026-03-04 22:52:29  [INFO]  Npcap detected on Windows.
+2026-03-04 22:52:29  [INFO]  Discovered module: arp_spoofer.py
+2026-03-04 22:52:29  [INFO]  Discovered module: http_brute_forcer.py
+2026-03-04 22:52:29  [INFO]  Discovered module: log_analyser.py
+2026-03-04 22:52:29  [INFO]  Discovered module: mac_flooder.py
+2026-03-04 22:52:29  [INFO]  Discovered module: packet_sniffer.py
+2026-03-04 22:52:29  [INFO]  Discovered module: password_cracking.py
+2026-03-04 22:52:29  [INFO]  Discovered module: port_scanner.py
+2026-03-04 22:52:29  [INFO]  Discovered module: reverse_ssh_tunnel.py
+2026-03-04 22:52:29  [INFO]  Discovered module: ssh_command_handler.py
+2026-03-04 22:52:29  [INFO]  Discovered module: ssh_executor.py
+2026-03-04 22:52:29  [INFO]  Discovered module: ssh_server.py
+2026-03-04 22:52:29  [INFO]  Discovered module: tcp_client.py
+2026-03-04 22:52:29  [INFO]  Discovered module: tcp_proxy.py
+2026-03-04 22:52:29  [INFO]  Discovered module: tcp_server.py
+2026-03-04 22:52:29  [INFO]  Discovered module: udp_client.py
+2026-03-04 22:52:43  [INFO]  Launching module: arp_spoofer.py
+2026-03-04 22:53:48  [WARNING]  Module arp_spoofer.py finished with exit code 3221225786.
+2026-03-04 22:58:26  [INFO]  Discovered module: arp_spoofer.py
+2026-03-04 22:58:26  [INFO]  Discovered module: http_brute_forcer.py
+2026-03-04 22:58:26  [INFO]  Discovered module: log_analyser.py
+2026-03-04 22:58:26  [INFO]  Discovered module: mac_flooder.py
+2026-03-04 22:58:26  [INFO]  Discovered module: network_mapper.py
+2026-03-04 22:58:26  [INFO]  Discovered module: packet_sniffer.py
+2026-03-04 22:58:26  [INFO]  Discovered module: password_cracking.py
+2026-03-04 22:58:26  [INFO]  Discovered module: port_scanner.py
+2026-03-04 22:58:26  [INFO]  Discovered module: reverse_ssh_tunnel.py
+2026-03-04 22:58:26  [INFO]  Discovered module: ssh_command_handler.py
+2026-03-04 22:58:26  [INFO]  Discovered module: ssh_executor.py
+2026-03-04 22:58:26  [INFO]  Discovered module: ssh_server.py
+2026-03-04 22:58:26  [INFO]  Discovered module: tcp_client.py
+2026-03-04 22:58:26  [INFO]  Discovered module: tcp_proxy.py
+2026-03-04 22:58:26  [INFO]  Discovered module: tcp_server.py
+2026-03-04 22:58:26  [INFO]  Discovered module: udp_client.py
+2026-03-04 22:59:23  [INFO]  Toolkit started on win32.
+2026-03-04 22:59:23  [INFO]  All dependencies satisfied.
+2026-03-04 22:59:23  [INFO]  Npcap detected on Windows.
+2026-03-04 22:59:23  [INFO]  Discovered module: arp_spoofer.py
+2026-03-04 22:59:23  [INFO]  Discovered module: http_brute_forcer.py
+2026-03-04 22:59:23  [INFO]  Discovered module: log_analyser.py
+2026-03-04 22:59:23  [INFO]  Discovered module: mac_flooder.py
+2026-03-04 22:59:23  [INFO]  Discovered module: network_mapper.py
+2026-03-04 22:59:23  [INFO]  Discovered module: packet_sniffer.py
+2026-03-04 22:59:23  [INFO]  Discovered module: password_cracking.py
+2026-03-04 22:59:23  [INFO]  Discovered module: port_scanner.py
+2026-03-04 22:59:23  [INFO]  Discovered module: reverse_ssh_tunnel.py
+2026-03-04 22:59:23  [INFO]  Discovered module: ssh_command_handler.py
+2026-03-04 22:59:23  [INFO]  Discovered module: ssh_executor.py
+2026-03-04 22:59:23  [INFO]  Discovered module: ssh_server.py
+2026-03-04 22:59:23  [INFO]  Discovered module: tcp_client.py
+2026-03-04 22:59:23  [INFO]  Discovered module: tcp_proxy.py
+2026-03-04 22:59:23  [INFO]  Discovered module: tcp_server.py
+2026-03-04 22:59:23  [INFO]  Discovered module: udp_client.py
+2026-03-04 22:59:32  [INFO]  Launching module: network_mapper.py
+2026-03-04 23:03:30  [INFO]  Discovered module: arp_spoofer.py
+2026-03-04 23:03:30  [INFO]  Discovered module: http_brute_forcer.py
+2026-03-04 23:03:30  [INFO]  Discovered module: log_analyser.py
+2026-03-04 23:03:30  [INFO]  Discovered module: mac_flooder.py
+2026-03-04 23:03:30  [INFO]  Discovered module: network_mapper.py
+2026-03-04 23:03:30  [INFO]  Discovered module: packet_sniffer.py
+2026-03-04 23:03:30  [INFO]  Discovered module: password_cracking.py
+2026-03-04 23:03:30  [INFO]  Discovered module: port_scanner.py
+2026-03-04 23:03:30  [INFO]  Discovered module: reverse_ssh_tunnel.py
+2026-03-04 23:03:30  [INFO]  Discovered module: ssh_command_handler.py
+2026-03-04 23:03:30  [INFO]  Discovered module: ssh_executor.py
+2026-03-04 23:03:30  [INFO]  Discovered module: ssh_server.py
+2026-03-04 23:03:30  [INFO]  Discovered module: tcp_client.py
+2026-03-04 23:03:30  [INFO]  Discovered module: tcp_proxy.py
+2026-03-04 23:03:30  [INFO]  Discovered module: tcp_server.py
+2026-03-04 23:03:30  [INFO]  Discovered module: udp_client.py
+2026-03-04 23:03:34  [INFO]  Launching module: network_mapper.py
+2026-03-04 23:04:50  [INFO]  Discovered module: arp_spoofer.py
+2026-03-04 23:04:50  [INFO]  Discovered module: http_brute_forcer.py
+2026-03-04 23:04:50  [INFO]  Discovered module: log_analyser.py
+2026-03-04 23:04:50  [INFO]  Discovered module: mac_flooder.py
+2026-03-04 23:04:50  [INFO]  Discovered module: network_mapper.py
+2026-03-04 23:04:50  [INFO]  Discovered module: packet_sniffer.py
+2026-03-04 23:04:50  [INFO]  Discovered module: password_cracking.py
+2026-03-04 23:04:50  [INFO]  Discovered module: port_scanner.py
+2026-03-04 23:04:50  [INFO]  Discovered module: reverse_ssh_tunnel.py
+2026-03-04 23:04:50  [INFO]  Discovered module: ssh_command_handler.py
+2026-03-04 23:04:50  [INFO]  Discovered module: ssh_executor.py
+2026-03-04 23:04:50  [INFO]  Discovered module: ssh_server.py
+2026-03-04 23:04:50  [INFO]  Discovered module: tcp_client.py
+2026-03-04 23:04:50  [INFO]  Discovered module: tcp_proxy.py
+2026-03-04 23:04:50  [INFO]  Discovered module: tcp_server.py
+2026-03-04 23:04:50  [INFO]  Discovered module: udp_client.py
+2026-03-04 23:04:53  [INFO]  Launching module: password_cracking.py
+2026-03-04 23:05:05  [INFO]  Discovered module: arp_spoofer.py
+2026-03-04 23:05:05  [INFO]  Discovered module: http_brute_forcer.py
+2026-03-04 23:05:05  [INFO]  Discovered module: log_analyser.py
+2026-03-04 23:05:05  [INFO]  Discovered module: mac_flooder.py
+2026-03-04 23:05:05  [INFO]  Discovered module: network_mapper.py
+2026-03-04 23:05:05  [INFO]  Discovered module: packet_sniffer.py
+2026-03-04 23:05:05  [INFO]  Discovered module: password_cracking.py
+2026-03-04 23:05:05  [INFO]  Discovered module: port_scanner.py
+2026-03-04 23:05:05  [INFO]  Discovered module: reverse_ssh_tunnel.py
+2026-03-04 23:05:05  [INFO]  Discovered module: ssh_command_handler.py
+2026-03-04 23:05:05  [INFO]  Discovered module: ssh_executor.py
+2026-03-04 23:05:05  [INFO]  Discovered module: ssh_server.py
+2026-03-04 23:05:05  [INFO]  Discovered module: tcp_client.py
+2026-03-04 23:05:05  [INFO]  Discovered module: tcp_proxy.py
+2026-03-04 23:05:05  [INFO]  Discovered module: tcp_server.py
+2026-03-04 23:05:05  [INFO]  Discovered module: udp_client.py

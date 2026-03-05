@@ -1,0 +1,34 @@
+# requirements.txt - Security Toolkit Dependencies
+# ==================================================
+# Install all dependencies with:
+#     pip install -r requirements.txt
+#
+# Windows users also need Npcap for raw socket modules:
+#     https://npcap.com
+#     Install with "WinPcap API-compatible mode" checked
+#
+# Affected modules: Packet Sniffer, ARP Spoofer,
+#                   MAC Flooder, Port Scanner (SYN/UDP)
+
+# --------------------------------------------------
+# Core dependencies (all platforms)
+# --------------------------------------------------
+
+paramiko==3.5.0
+# SSH client and server implementation
+# Used by: ssh_executor, ssh_command_handler,
+#          ssh_server, reverse_ssh_tunnel
+
+scapy==2.6.1
+# Packet crafting, sniffing, and network analysis
+# Used by: packet_sniffer, port_scanner,
+#          arp_spoofer, mac_flooder
+
+# --------------------------------------------------
+# Windows only
+# --------------------------------------------------
+
+pywin32==311  # [windows-only]
+# Windows Event Log access
+# Used by: log_analyser (Windows Event Log mode only)
+# Install manually if needed: pip install pywin32
