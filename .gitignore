@@ -1,0 +1,8 @@
+﻿build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+toolkit.log
+ccapture_logs/
+scan_results/
